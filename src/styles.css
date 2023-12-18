@@ -1,0 +1,21 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  margin-top: 20%;
+}
+
+.App {
+  font-family: sans-serif;
+  width: 90%;
+  max-width: 375px;
+  margin: 0 auto;
+}
+
+.App input {
+  margin-top: 1rem;
+  padding: 0.2rem;
+  font-family: inherit;
+  font-size: inherit;
+  width: 100%;
+}
